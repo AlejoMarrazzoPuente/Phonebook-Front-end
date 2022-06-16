@@ -1,5 +1,5 @@
 
-# Phonebook project
+# Phonebook (Front-end part) project
 
 Simple Page Application where you can add, delete and modify
 contacts.
@@ -8,19 +8,12 @@ contacts.
 Made out completely with React for user interaction 
 and Axios for simple contact with Backend.
 
-#### Backend ¬
-Requests handled with Express, connection and manipulation of
-the database handled with Mongoose and Morgan as Logger
-
 ### What did I use 
 - NodeJS
 - npm
 - React
-- Express
-- Mongoose
-- Cors 
-- Nodemon
-- Morgan
+- Axios
+- Cors
 
 ___
 #### To consider: 
